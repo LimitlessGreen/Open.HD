@@ -1,4 +1,4 @@
-FROM openhd/2018-10-09-raspbian-stretch-lite:v1  
+FROM balenalib/raspberry-pi-debian:stretch  
 
 RUN apt update
 
